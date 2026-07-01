@@ -1,11 +1,11 @@
-<h1 align="center">NexVisual - Visao Computacional</h1>
+<h1 align="center">NexVisual - Visao Computacional 👁️</h1>
 
 <p align="center">
-  <a href="#about">About</a> |
-  <a href="#content">Course Content</a> |
-  <a href="#tech">Technologies</a> |
-  <a href="#started">Getting Started</a> |
-  <a href="#colab">Collaborators</a>
+  <a href="#about">📌 About</a> |
+  <a href="#content">📚 Course Content</a> |
+  <a href="#tech">💻 Technologies</a> |
+  <a href="#started">🚀 Getting Started</a> |
+  <a href="#colab">🤝 Collaborators</a>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   It contains practical notebooks covering image processing, deep learning, object detection, OCR, segmentation and experiment monitoring.</b>
 </p>
 
-<h2 id="about">About</h2>
+<h2 id="about">📌 About</h2>
 
 This repository brings together practical activities developed during my preparation in Computer Vision.
 
@@ -21,7 +21,7 @@ The notebooks explore the main stages of a computer vision workflow, including i
 
 Rather than being a single final project, this repository works as a learning portfolio with applied exercises and experiments in visual artificial intelligence.
 
-<h2 id="content">Course Content</h2>
+<h2 id="content">📚 Course Content</h2>
 
 <h3>Module 1 - Fundamentals</h3>
 
@@ -65,7 +65,7 @@ Rather than being a single final project, this repository works as a learning po
 - TensorBoard logs
 - Training metrics organization
 
-<h2 id="tech">Technologies</h2>
+<h2 id="tech">💻 Technologies</h2>
 
 - Python
 - Jupyter Notebook
@@ -80,7 +80,7 @@ Rather than being a single final project, this repository works as a learning po
 - CLIP
 - TensorBoard
 
-<h2 id="started">Getting Started</h2>
+<h2 id="started">🚀 Getting Started</h2>
 
 <h3>Prerequisites</h3>
 
@@ -118,7 +118,7 @@ Then open the desired notebook and run the cells.
 
 Some activities may download datasets or pre-trained models during execution, so an internet connection may be required.
 
-<h2 id="highlights">Highlights</h2>
+<h2 id="highlights">✨ Highlights</h2>
 
 Some of the most applied activities in this repository include:
 
@@ -130,7 +130,7 @@ Some of the most applied activities in this repository include:
 - Lane detection for autonomous vehicles
 - Experiment monitoring with TensorBoard
 
-<h2 id="colab">Collaborators</h2>
+<h2 id="colab">🤝 Collaborators</h2>
 
 Special thanks to NexVisual and Eldorado Institute for the course content and learning experience.
 
