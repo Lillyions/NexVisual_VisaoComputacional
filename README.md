@@ -5,6 +5,7 @@
   <a href="#content">📚 Course Content</a> |
   <a href="#tech">💻 Technologies</a> |
   <a href="#started">🚀 Getting Started</a> |
+  <a href="#activity">🧪 Practical Activity</a> |
   <a href="#colab">🤝 Collaborators</a>
 </p>
 
@@ -129,6 +130,16 @@ Some of the most applied activities in this repository include:
 - Defect segmentation in fabrics
 - Lane detection for autonomous vehicles
 - Experiment monitoring with TensorBoard
+
+<h2 id="activity">🧪 Practical Activity</h2>
+
+The organized course deliverable is available in:
+
+```text
+Pratique_Atividades/desafio_1_blur/
+```
+
+This activity implements a background blur effect using OpenCV, Haar Cascade face detection and image processing operations.
 
 <h2 id="colab">🤝 Collaborators</h2>
 
